@@ -1,7 +1,20 @@
-# SECO Store
+# SECO Marketplace
 
-A modern Arabic online store designed to sell all kinds of products, featuring responsive design, product categories, search, shopping cart, checkout, payment, and delivery options.
+منصة عربية بسيطة للبيع والشراء للمنتجات الجديدة والمستعملة.
 
-## Live website
+## النسخة العاملة
 
-Deployed automatically from the `main` branch with GitHub Pages.
+https://seco-panda-store.michellethomasn051.chatgpt.site
+
+## الموجود في النسخة الحالية
+
+- أقسام وبحث وفلاتر حسب حالة المنتج
+- صفحة مستقلة لكل منتج وسلة مشتريات
+- خطوات عنوان، شحن، ودفع منفصلة
+- InstaPay وVodafone Cash والمحافظ الإلكترونية بإثبات تحويل ومراجعة
+- رسوم شحن مدفوعة مقدمًا وعمولة منصة 5%
+- لوحة لإضافة منتجات البائع بعد المراجعة
+- بوابة تسجيل لشركات الشحن
+- تصميم عربي متجاوب مع الموبايل
+
+> GitHub Pages يستضيف ملفات ثابتة فقط. النسخة العاملة انتقلت لاستضافة كاملة تدعم قاعدة البيانات ورفع الملفات، ويظل هذا المستودع مرجع النسخة الأولى.
