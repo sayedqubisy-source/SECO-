@@ -4,4 +4,4 @@ A modern Arabic online store designed to sell all kinds of products, featuring r
 
 ## Live website
 
-Deployed automatically with GitHub Pages.
+Deployed automatically from the `main` branch with GitHub Pages.
